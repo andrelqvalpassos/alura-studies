@@ -1,0 +1,21 @@
+.map{
+    height: 100vh;
+}
+
+.find-parking-btn {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    padding: 10px 20px;
+    background-color: #2A9F85;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    z-index: 5;
+  }
+  
+  .find-parking-btn:hover {
+    background-color: #2A9F85;
+  }
